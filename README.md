@@ -35,7 +35,8 @@ It delivers actionable insights to support HR planning and decision-making throu
 ## 🖼️ Dashboard Preview
 Below is a preview of the HR Dashboard:
 
-![Dashboa(dashboard-preview.png)
+<img width="1364" height="552" alt="Dashboard_preview png" src="https://github.com/user-attachments/assets/857dbd0c-3b2a-4a89-8eb7-3891d349c5fe" />
+
 
 
 ## 📁 File Information
@@ -55,5 +56,5 @@ Below is a preview of the HR Dashboard:
 
 ## 🏁 Author
 **Blessing Uchenna Ezenwa**  
-💼 Freelance Data Analyst | Excel Dashboard Designer  
-📧 [Optional: Add your email or LinkedIn here]
+💼 Business Analyst  
+📧 www.linkedin.com/in/ucheb 
