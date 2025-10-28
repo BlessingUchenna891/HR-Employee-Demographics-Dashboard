@@ -19,10 +19,8 @@ It delivers actionable insights to support HR planning and decision-making throu
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - KPI Cards  
-- Slicers  
-- Conditional Formatting  
+- Slicers    
 
----
 
 ## 🧠 Insights
 - Identify workforce trends by position and department  
