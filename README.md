@@ -1,58 +1,39 @@
-# HR Employee Demographics & Salary Analysis Dashboard
+# 📈 HR Employee Demography & Salary Analysis (Excel Dashboard)
 
-This project presents an **interactive Excel dashboard** designed to analyze workforce demographics and salary distribution across departments and positions.  
-It delivers actionable insights to support HR planning and decision-making through dynamic visuals and KPIs.
+> **Project Goal:** To provide a comprehensive view of employee demographics, gender balance, departmental distribution, and salary trends across an organization using a dynamic Excel dashboard.
 
----
+## 🎯 Key Objectives
 
-## 📊 Key Features
-- **Employee Distribution:** Visual breakdown by position and department  
-- **Gender Ratio:** Pie chart showing gender proportions across the workforce  
-- **Average Salary:** KPI card highlighting compensation trends by department  
-- **Total Employees:** KPI card summarizing overall workforce size  
-- **Interactive Slicers:** Filter and explore data dynamically  
-- **Professional Layout:** Clean, user-friendly design optimized for clarity and presentation  
+This analysis addresses key HR planning questions by visualizing:
 
----
+* **Total Headcount** and overall **Average Salary**.
+* **Gender Distribution** across the workforce.
+* **Departmental Distribution** and staffing concentration by position.
+* **Average Salary Variation** across different departments.
 
-## 🧮 Tools & Techniques
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- KPI Cards  
-- Slicers    
+## 🛠️ Tools and Techniques Used
 
+* **Data Source:** Mock HR Employee Data (100 records).
+* **Tool:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Dashboard design).
+* **Techniques:**
+    * **Pivot Tables:** Used to aggregate data (Count of Employee ID, Average of Salary).
+    * **Calculated Fields:** (If applicable, e.g., for ratios or variances).
+    * **Data Visualization:** Bar charts for distribution, Pie/Donut charts for proportions, and interactive Slicers.
 
-## 🧠 Insights
-- Identify workforce trends by position and department  
-- Understand salary distribution and compensation gaps  
-- Assess gender balance and hiring diversity  
-- Support HR strategy through data-driven analytics  
+## 🔎 Key Insights from the Analysis
 
----
+Based on the final dashboard and underlying pivot tables, the analysis revealed the following:
 
-## 🖼️ Dashboard Preview
-Below is a preview of the HR Dashboard:
+1.  **Workforce Size & Pay:** The company has **100 employees** with a uniform average salary of **$148,324.00** across all departments.
+2.  **Gender Balance:** The workforce is slightly female-dominated (**56% Female** vs. **44% Male**).
+3.  **Departmental Headcount:** The **HR** department (24 employees) and **Marketing** department (22 employees) are the largest teams.
+4.  **Role Concentration:** The **Manager** role is the most common position across the organization (24% of the headcount).
 
-<img width="1364" height="552" alt="Dashboard_preview png" src="https://github.com/user-attachments/assets/857dbd0c-3b2a-4a89-8eb7-3891d349c5fe" />
+## 🚀 How to Use the Dashboard
 
-
-
-## 📁 File Information
-- **File Name:** `https://github.com/BlessingUchenna891/HR-Employee-Demographics-Dashboard/commit/aefbd652678af262a7065933b789839b34721b5b#diff-555fea25777c45e7bf2a8c36cb8e964c4b03aae0da87c4a7dae6d09a53d2b88a` 
-- **Format:** Microsoft Excel Workbook  
-- **Data Source:** Sample HR dataset (fictional)  
+1.  Download the [HR_Employee_Demography_Analysis file]()
+2.  Open the **'Dashboard'** tab.
+3.  Use the **Slicers** (Department, Employment Type) on the right-hand side to interactively filter the data and analyze specific groups (e.g., filtering for 'IT' department shows the position breakdown within IT).
 
 ---
-
-## 💡 How to Use
-1. Download and open the Excel file.  
-2. Use the slicers to filter by department, position, or gender.  
-3. Hover over charts for detailed insights.  
-4. Review KPI cards for quick summary metrics.  
-
----
-
-## 🏁 Author
-**Blessing Uchenna Ezenwa**  
-💼 Business Analyst  
-📧 www.linkedin.com/in/ucheb 
+Author: Blessing Uchenna Ezenwa
