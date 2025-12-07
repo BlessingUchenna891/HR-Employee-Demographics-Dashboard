@@ -1,6 +1,11 @@
 # 📈 HR Employee Demography & Salary Analysis (Excel Dashboard)
 
+![HR Dashboard Hero Shot](dashboard_hero.png)
+
+***
 > **Project Goal:** To provide a comprehensive view of employee demographics, gender balance, departmental distribution, and salary trends across an organization using a dynamic Excel dashboard.
+> This mock project presents an **interactive Excel dashboard** designed to analyze workforce demographics and salary distribution across departments and positions.  
+It delivers actionable insights to support HR planning and decision-making through dynamic visuals and KPIs.
 
 ## 🎯 Key Objectives
 
@@ -31,7 +36,7 @@ Based on the final dashboard and underlying pivot tables, the analysis revealed 
 
 ## 🚀 How to Use the Dashboard
 
-1.  Download the [HR_Employee_Demography_Analysis file]()
+1.  Download the [HR_Employee_Demography_Analysis file](https://github.com/BlessingUchenna891/HR-Employee-Demographics-Dashboard/blob/main/HR_Employee_Demography_Analysis.xlsx)
 2.  Open the **'Dashboard'** tab.
 3.  Use the **Slicers** (Department, Employment Type) on the right-hand side to interactively filter the data and analyze specific groups (e.g., filtering for 'IT' department shows the position breakdown within IT).
 
