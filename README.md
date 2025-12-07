@@ -1,6 +1,6 @@
 # 📈 HR Employee Demography & Salary Analysis (Excel Dashboard)
 
-![HR Dashboard Hero Shot](dashboard_hero.png)
+![HR Dashboard Hero Shot](https://github.com/BlessingUchenna891/HR-Employee-Demographics-Dashboard/blob/main/HR_Employee_Demography_Analysis_%20Overview.png)
 
 ***
 > **Project Goal:** To provide a comprehensive view of employee demographics, gender balance, departmental distribution, and salary trends across an organization using a dynamic Excel dashboard.
