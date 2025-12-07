@@ -36,7 +36,7 @@ Based on the final dashboard and underlying pivot tables, the analysis revealed 
 
 ## 🚀 How to Use the Dashboard
 
-1.  Download the [HR_Employee_Demography_Analysis file](https://github.com/BlessingUchenna891/HR-Employee-Demographics-Dashboard/blob/main/HR_Employee_Demography_Analysis.xlsx)
+1.  Download the [HR_Employee_Demography_Analysis file](https://github.com/BlessingUchenna891/HR-Employee-Demographics-Dashboard/blob/main/HR_Employee_Demography_And_Salary_Analysis.xlsx)
 2.  Open the **'Dashboard'** tab.
 3.  Use the **Slicers** (Department, Employment Type) on the right-hand side to interactively filter the data and analyze specific groups (e.g., filtering for 'IT' department shows the position breakdown within IT).
 
